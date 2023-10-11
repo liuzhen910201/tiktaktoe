@@ -5,3 +5,9 @@
 ```
 $python mcts3.py
 ```
+# 运行效果图
+
+![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe1.png)
+<br>
+X是用户
+![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe2.png)
