@@ -15,14 +15,16 @@ $python mcts3.py
 
 ![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe1.png)
 <br>
-## X是用户 O是电脑 电脑以MCTS运行<br>
+## X是用户 O是电脑 电脑以MCTS运行
 <br>
+
 ![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe2.png)
 <br>
-## 可以识别重复位置
+## 可以识别重复位置 
 <br>
+
 ![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe3.png)
 <br>
-## 结果
+## 结果 
 <br>
 ![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe4.png)
