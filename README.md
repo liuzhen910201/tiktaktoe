@@ -9,5 +9,6 @@ $python mcts3.py
 
 ![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe1.png)
 <br>
-X是用户
+X是用户 O是电脑 电脑以MCTS运行<br>
+<br>
 ![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe2.png)
