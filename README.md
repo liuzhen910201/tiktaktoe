@@ -27,4 +27,5 @@ $python mcts3.py
 <br>
 ## 结果 
 <br>
+
 ![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe4.png)
