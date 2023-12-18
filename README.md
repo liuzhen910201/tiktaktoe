@@ -29,3 +29,7 @@ $python mcts3.py
 <br>
 
 ![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe4.png)
+
+## 升级
+五子棋
+https://github.com/liuzhen910201/gobang
