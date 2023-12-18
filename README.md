@@ -31,5 +31,5 @@ $python mcts3.py
 ![](https://github.com/liuzhen910201/tiktaktoe/blob/main/pic/tictaktoe4.png)
 
 ## 升级
-五子棋
+五子棋<br>
 https://github.com/liuzhen910201/gobang
